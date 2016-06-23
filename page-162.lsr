@@ -1,0 +1,29 @@
+
+floor:1
+label:First Reading
+ot-reading:2sm 5:1-3
+
+
+label:Psalm
+psalm:122
+
+
+label:Second Reading
+nt-reading:col 1:12-20
+
+
+
+floor:2
+label:Aleluia
+aleluia:
+opt-menu:Gospel:
+
+gospel:lk 23:33-43
+
+opt-next:Roman form
+gospel:lk 23:35-43
+opt-done:
+
+flushy:
+
+

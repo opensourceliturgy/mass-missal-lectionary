@@ -1,0 +1,25 @@
+floor:1
+
+label:First Reading
+pre-ot:
+wip-note:This is where the first reading comes.
+post-ot:
+
+label:Psalm
+wip-note:This is where the psalm comes.
+
+label:Second Reading
+pre-nt:
+wip-note:This is where the second reading comes.
+post-nt:
+
+floor:2
+
+label:Aleluia
+aleluia:
+
+label:Gospel
+pre-gospel:
+wip-note:This is where the Gospel is proclaimed.
+post-gospel:
+

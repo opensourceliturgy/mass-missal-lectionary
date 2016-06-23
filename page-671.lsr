@@ -1,0 +1,18 @@
+floor:1
+label:First Reading
+ot-reading:2mc 7:1-2, 9-14
+label:Psalm
+psalm:17
+label:Second Reading
+nt-reading:2thes 2:16-3:5
+floor:2
+label:Aleluia
+aleluia:
+opt-menu:Gospel:
+gospel:lk 20:27-38
+opt-next:short form
+gospel:lk 20:27, 34-38
+opt-done:
+
+flushy:
+
